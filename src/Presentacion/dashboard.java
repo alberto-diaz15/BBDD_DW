@@ -78,6 +78,7 @@ public class dashboard {
 	private void initialize() {
 		canciones = GestorCanciones.leerCanciones();
 		frame = new JFrame();
+		frame.setResizable(false);
 		frame.setBounds(100, 100, 850, 500);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
