@@ -8,8 +8,8 @@
     "Genre": "Pop",
     "Country": "United Kingdom",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "2,724,013,193",
-    "Estimated earnings worldwide": "$13,347,665"
+    "Total Spotify Streams Worldwide": "2724013193",
+    "Estimated earnings worldwide": "13347665"
   },
   "1":{
     "id": 2,
@@ -17,10 +17,10 @@
     "Artist": "Post Malone",
     "Artist Gender": "Male",
     "Genre": "Hip Hop/Rap",
-    "Country": "United States of America",
+    "Country": "USA",
     "Continent":"North America" ,
-    "Total Spotify Streams Worldwide": "2,124,372,156",
-    "Estimated earnings worldwide": "$10,409,424"
+    "Total Spotify Streams Worldwide": "2124372156",
+    "Estimated earnings worldwide": "10409424"
   },
   "2":{
     "id": 3,
@@ -30,8 +30,8 @@
     "Genre": "Pop",
     "Country": "Australia",
     "Continent":"Oceania" ,
-    "Total Spotify Streams Worldwide": "2,101,828,534",
-    "Estimated earnings worldwide": "$10,298,960"
+    "Total Spotify Streams Worldwide": "2101828534",
+    "Estimated earnings worldwide": "10298960"
   },
   "3":{
     "id": 4,
@@ -41,8 +41,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Canada",
     "Continent":"North America" ,
-    "Total Spotify Streams Worldwide": "1,695,958,873",
-    "Estimated earnings worldwide": "$8,310,198"
+    "Total Spotify Streams Worldwide": "1695958873",
+    "Estimated earnings worldwide": "8310198"
   },
   "4":{
     "id": 5,
@@ -52,8 +52,8 @@
     "Genre": "Electronic/Dance",
     "Country": "Norway",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "1,350,560,280",
-    "Estimated earnings worldwide": "$6,617,745"
+    "Total Spotify Streams Worldwide": "1350560280",
+    "Estimated earnings worldwide": "6617745"
   },
   "5":{
     "id": 6,
@@ -63,8 +63,8 @@
     "Genre": "Electronic/Dance",
     "Country": "Sweden",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "1,227,990,897",
-    "Estimated earnings worldwide": "$6,017,155"
+    "Total Spotify Streams Worldwide": "1227990897",
+    "Estimated earnings worldwide": "6017155"
   },
   "6":{
     "id": 7,
@@ -74,8 +74,8 @@
     "Genre": "Pop",
     "Country": "Denmark",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "1,201,787,625",
-    "Estimated earnings worldwide": "$5,888,759"
+    "Total Spotify Streams Worldwide": "1201787625",
+    "Estimated earnings worldwide": "5888759"
   },
   "7":{
     "id": 8,
@@ -85,8 +85,8 @@
     "Genre": "Electronic/Dance",
     "Country": "Lithuania",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "962,677,266",
-    "Estimated earnings worldwide": "$4,717,119"
+    "Total Spotify Streams Worldwide": "962677266",
+    "Estimated earnings worldwide": "4717119"
   },
   "8":{
     "id": 9,
@@ -94,10 +94,10 @@
     "Artist": "Natti Natasha",
     "Artist Gender": "Female",
     "Genre": "Reggaeton",
-    "Country": "Dominican Republic",
+    "Country": "Dominican Rep.",
     "Continent":"Central America" ,
-    "Total Spotify Streams Worldwide": "652,964,683",
-    "Estimated earnings worldwide": "$3,199,527"
+    "Total Spotify Streams Worldwide": "652964683",
+    "Estimated earnings worldwide": "3199527"
   },
   "9":{
     "id": 10,
@@ -107,8 +107,8 @@
     "Genre": "Latin Trap",
     "Country": "Argentina",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "627,517,660",
-    "Estimated earnings worldwide": "$3,074,837"
+    "Total Spotify Streams Worldwide": "627517660",
+    "Estimated earnings worldwide": "3074837"
   },
   "10":{
     "id": 11,
@@ -118,8 +118,8 @@
     "Genre": "Latin Pop",
     "Country": "Colombia",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "544,780,626",
-    "Estimated earnings worldwide": "$2,669,425"
+    "Total Spotify Streams Worldwide": "544780626",
+    "Estimated earnings worldwide": "2669425"
   },
   "11":{
     "id": 12,
@@ -129,8 +129,8 @@
     "Genre": "Reggaeton",
     "Country": "Panama",
     "Continent":"Central America" ,
-    "Total Spotify Streams Worldwide": "384,965,611",
-    "Estimated earnings worldwide": "$1,886,331"
+    "Total Spotify Streams Worldwide": "384965611",
+    "Estimated earnings worldwide": "1886331"
   },
   "12":{
     "id": 13,
@@ -140,8 +140,8 @@
     "Genre": "Pop",
     "Country": "Mexico",
     "Continent":"North America" ,
-    "Total Spotify Streams Worldwide": "278,435,662",
-    "Estimated earnings worldwide": "$1,364,335"
+    "Total Spotify Streams Worldwide": "278435662",
+    "Estimated earnings worldwide": "1364335"
   },
   "13":{
     "id": 14,
@@ -151,8 +151,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Germany",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "248,424,611",
-    "Estimated earnings worldwide": "$1,217,281"
+    "Total Spotify Streams Worldwide": "248424611",
+    "Estimated earnings worldwide": "1217281"
   },
   "14":{
     "id": 15,
@@ -162,8 +162,8 @@
     "Genre": "Pop",
     "Country": "Brazil",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "212,062,341",
-    "Estimated earnings worldwide": "$1,039,105"
+    "Total Spotify Streams Worldwide": "212062341",
+    "Estimated earnings worldwide": "1039105"
   },
   "15":{
     "id": 16,
@@ -173,8 +173,8 @@
     "Genre": "Latin Pop",
     "Country": "Spain",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "210,530,663",
-    "Estimated earnings worldwide": "$1,031,600"
+    "Total Spotify Streams Worldwide": "210530663",
+    "Estimated earnings worldwide": "1031600"
   },
   "16":{
     "id": 17,
@@ -182,21 +182,21 @@
     "Artist": "Dermot Kennedy",
     "Artist Gender": "Male",
     "Genre": "Pop",
-    "Country": "Ireland (Republic of)",
+    "Country": "Ireland",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "206,380,929",
-    "Estimated earnings worldwide": "$1,011,267"
+    "Total Spotify Streams Worldwide": "206380929",
+    "Estimated earnings worldwide": "1011267"
   },
   "17":{
     "id": 18,
     "Song": "Kathang Isip",
-    "Artist": "Ben&Ben",
+    "Artist": "BenBen",
     "Artist Gender": "Band",
     "Genre": "Hip Hop/Rap",
     "Country": "Philippines",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "149,301,017",
-    "Estimated earnings worldwide": "$731,575"
+    "Total Spotify Streams Worldwide": "149301017",
+    "Estimated earnings worldwide": "731575"
   },
   "18":{
     "id": 19,
@@ -206,8 +206,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Italy",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "117,878,562",
-    "Estimated earnings worldwide": "$577,605"
+    "Total Spotify Streams Worldwide": "117878562",
+    "Estimated earnings worldwide": "577605"
   },
   "19":{
     "id": 20,
@@ -217,8 +217,8 @@
     "Genre": "Pop",
     "Country": "Japan",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "109,179,995",
-    "Estimated earnings worldwide": "$534,982"
+    "Total Spotify Streams Worldwide": "109179995",
+    "Estimated earnings worldwide": "534982"
   },
   "20":{
     "id": 21,
@@ -228,8 +228,8 @@
     "Genre": "Pop",
     "Country": "Belgium",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "104,874,800",
-    "Estimated earnings worldwide": "$513,887"
+    "Total Spotify Streams Worldwide": "104874800",
+    "Estimated earnings worldwide": "513887"
   },
   "21":{
     "id": 22,
@@ -239,8 +239,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "France",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "104,483,752",
-    "Estimated earnings worldwide": "$511,970"
+    "Total Spotify Streams Worldwide": "104483752",
+    "Estimated earnings worldwide": "511970"
   },
   "22":{
     "id": 23,
@@ -250,8 +250,8 @@
     "Genre": "Pop",
     "Country": "Indonesia",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "99,401,958",
-    "Estimated earnings worldwide": "$487,070"
+    "Total Spotify Streams Worldwide": "99401958",
+    "Estimated earnings worldwide": "487070"
   },
   "23":{
     "id": 24,
@@ -261,8 +261,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Austria",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "99,024,383",
-    "Estimated earnings worldwide": "$485,219"
+    "Total Spotify Streams Worldwide": "99024383",
+    "Estimated earnings worldwide": "485219"
   },
   "24":{
     "id": 25,
@@ -272,8 +272,8 @@
     "Genre": "Pop",
     "Country": "Netherlands",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "89,114,516",
-    "Estimated earnings worldwide": "$436,661"
+    "Total Spotify Streams Worldwide": "89114516",
+    "Estimated earnings worldwide": "436661"
   },
   "25":{
     "id": 26,
@@ -283,8 +283,8 @@
     "Genre": "Latin Trap",
     "Country": "Chile",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "88,652,557",
-    "Estimated earnings worldwide": "$434,398"
+    "Total Spotify Streams Worldwide": "88652557",
+    "Estimated earnings worldwide": "434398"
   },
   "26":{
     "id": 27,
@@ -294,8 +294,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Turkey",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "85,907,138",
-    "Estimated earnings worldwide": "$420,945"
+    "Total Spotify Streams Worldwide": "85907138",
+    "Estimated earnings worldwide": "420945"
   },
   "27":{
     "id": 28,
@@ -305,8 +305,8 @@
     "Genre": "Latin Pop",
     "Country": "Uruguay",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "76,421,302",
-    "Estimated earnings worldwide": "$374,464"
+    "Total Spotify Streams Worldwide": "76421302",
+    "Estimated earnings worldwide": "374464"
   },
   "28":{
     "id": 29,
@@ -316,8 +316,8 @@
     "Genre": "Pop",
     "Country": "India",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "74,996,934",
-    "Estimated earnings worldwide": "$367,485"
+    "Total Spotify Streams Worldwide": "74996934",
+    "Estimated earnings worldwide": "367485"
   },
   "29":{
     "id": 30,
@@ -327,8 +327,8 @@
     "Genre": "Pop",
     "Country": "Guatemala",
     "Continent":"Central America" ,
-    "Total Spotify Streams Worldwide": "61,753,669",
-    "Estimated earnings worldwide": "$302,593"
+    "Total Spotify Streams Worldwide": "61753669",
+    "Estimated earnings worldwide": "302593"
   },
   "30":{
     "id": 31,
@@ -338,8 +338,8 @@
     "Genre": "Pop",
     "Country": "Singapore",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "53,618,700",
-    "Estimated earnings worldwide": "$262,732"
+    "Total Spotify Streams Worldwide": "53618700",
+    "Estimated earnings worldwide": "262732"
   },
   "31":{
     "id": 32,
@@ -349,8 +349,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Poland",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "40,351,154",
-    "Estimated earnings worldwide": "$197,721"
+    "Total Spotify Streams Worldwide": "40351154",
+    "Estimated earnings worldwide": "197721"
   },
   "32":{
     "id": 33,
@@ -360,8 +360,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Taiwan",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "37,800,590",
-    "Estimated earnings worldwide": "$185,223"
+    "Total Spotify Streams Worldwide": "37800590",
+    "Estimated earnings worldwide": "185223"
   },
   "33":{
     "id": 34,
@@ -371,30 +371,30 @@
     "Genre": "Pop",
     "Country": "Thailand",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "25,947,283",
-    "Estimated earnings worldwide": "$127,142"
+    "Total Spotify Streams Worldwide": "25947283",
+    "Estimated earnings worldwide": "127142"
   },
   "34":{
     "id": 35,
     "Song": "Ikuinen Vappu",
     "Artist": "JVG",
     "Artist Gender": "Band",
-    "Genre": "Hip Hip/Rap",
+    "Genre": "Hip Hop/Rap",
     "Country": "Finland",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "24,152,127",
-    "Estimated earnings worldwide": "$118,345"
+    "Total Spotify Streams Worldwide": "24152127",
+    "Estimated earnings worldwide": "118345"
   },
   "35":{
     "id": 36,
     "Song": "079",
-    "Artist": "Lo & Leduc",
+    "Artist": "Lo  Leduc",
     "Artist Gender": "Band",
-    "Genre": "Hip Hip/Rap",
+    "Genre": "Hip Hop/Rap",
     "Country": "Switzerland",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "22,887,239",
-    "Estimated earnings worldwide": "$112,147"
+    "Total Spotify Streams Worldwide": "22887239",
+    "Estimated earnings worldwide": "112147"
   },
   "36":{
     "id": 37,
@@ -404,8 +404,8 @@
     "Genre": "Pop",
     "Country": "New Zealand",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "21,899,381",
-    "Estimated earnings worldwide": "$107,307"
+    "Total Spotify Streams Worldwide": "21899381",
+    "Estimated earnings worldwide": "107307"
   },
   "37":{
     "id": 38,
@@ -415,8 +415,8 @@
     "Genre": "Latin Pop",
     "Country": "Peru",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "21,872,556",
-    "Estimated earnings worldwide": "$107,176"
+    "Total Spotify Streams Worldwide": "21872556",
+    "Estimated earnings worldwide": "107176"
   },
   "38":{
     "id": 39,
@@ -426,8 +426,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Portugal",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "16,266,713",
-    "Estimated earnings worldwide": "$79,707"
+    "Total Spotify Streams Worldwide": "1,266713",
+    "Estimated earnings worldwide": "79707"
   },
   "39":{
     "id": 40,
@@ -437,8 +437,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Malaysia",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "14,614,760",
-    "Estimated earnings worldwide": "$71,612"
+    "Total Spotify Streams Worldwide": "14614760",
+    "Estimated earnings worldwide": "71612"
   },
   "40":{
     "id": 41,
@@ -448,8 +448,8 @@
     "Genre": "Pop",
     "Country": "Costa Rica",
     "Continent":"Central America" ,
-    "Total Spotify Streams Worldwide": "14,232,275",
-    "Estimated earnings worldwide": "$69,738"
+    "Total Spotify Streams Worldwide": "14232275",
+    "Estimated earnings worldwide": "69738"
   },
   "41":{
     "id": 42,
@@ -459,8 +459,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Greece",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "14,002,386",
-    "Estimated earnings worldwide": "$68,612"
+    "Total Spotify Streams Worldwide": "14002386",
+    "Estimated earnings worldwide": "68612"
   },
   "42":{
     "id": 43,
@@ -470,8 +470,8 @@
     "Genre": "Pop",
     "Country": "Malta",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "12,335,264",
-    "Estimated earnings worldwide": "$60,443"
+    "Total Spotify Streams Worldwide": "12335264",
+    "Estimated earnings worldwide": "60443"
   },
   "43":{
     "id": 44,
@@ -481,8 +481,8 @@
     "Genre": "Pop",
     "Country": "Vietnam",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "10,633,278",
-    "Estimated earnings worldwide": "$52,103"
+    "Total Spotify Streams Worldwide": "10633278",
+    "Estimated earnings worldwide": "52103"
   },
   "44":{
     "id": 45,
@@ -492,8 +492,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Israel",
     "Continent":"Asia" ,
-    "Total Spotify Streams Worldwide": "8,308,173",
-    "Estimated earnings worldwide": "$40,710"
+    "Total Spotify Streams Worldwide": "8308173",
+    "Estimated earnings worldwide": "40710"
   },
   "45":{
     "id": 46,
@@ -503,8 +503,8 @@
     "Genre": "Pop",
     "Country": "Ecuador",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "7,875,930",
-    "Estimated earnings worldwide": "$38,592"
+    "Total Spotify Streams Worldwide": "7875930",
+    "Estimated earnings worldwide": "38592"
   },
   "46":{
     "id": 47,
@@ -514,8 +514,8 @@
     "Genre": "Pop",
     "Country": "Hungary",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "7,197,499",
-    "Estimated earnings worldwide": "$35,268"
+    "Total Spotify Streams Worldwide": "7197499",
+    "Estimated earnings worldwide": "35268"
   },
   "47":{
     "id": 48,
@@ -525,8 +525,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Honduras",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "6,607,633",
-    "Estimated earnings worldwide": "$32,377"
+    "Total Spotify Streams Worldwide": "6607633",
+    "Estimated earnings worldwide": "32377"
   },
   "48":{
     "id": 49,
@@ -536,8 +536,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Slovakia",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "3,803,866",
-    "Estimated earnings worldwide": "$18,639"
+    "Total Spotify Streams Worldwide": "3803866",
+    "Estimated earnings worldwide": "18639"
   },
   "49":{
     "id": 50,
@@ -547,8 +547,8 @@
     "Genre": "Latin Pop",
     "Country": "Paraguay",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "3,505,938",
-    "Estimated earnings worldwide": "$17,179"
+    "Total Spotify Streams Worldwide": "3505938",
+    "Estimated earnings worldwide": "17179"
   },
   "50":{
     "id": 51,
@@ -558,8 +558,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Iceland",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "3,427,879",
-    "Estimated earnings worldwide": "$16,797"
+    "Total Spotify Streams Worldwide": "3427879",
+    "Estimated earnings worldwide": "16797"
   },
   "51":{
     "id": 52,
@@ -569,8 +569,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Romania",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "3,308,897",
-    "Estimated earnings worldwide": "$16,214"
+    "Total Spotify Streams Worldwide": "3308897",
+    "Estimated earnings worldwide": "16214"
   },
   "52":{
     "id": 53,
@@ -580,8 +580,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Estonia",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "2,413,561",
-    "Estimated earnings worldwide": "$11,826"
+    "Total Spotify Streams Worldwide": "2413561",
+    "Estimated earnings worldwide": "11826"
   },
   "53":{
     "id": 54,
@@ -591,8 +591,8 @@
     "Genre": "Reggaeton",
     "Country": "Bolivia",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "2,395,358",
-    "Estimated earnings worldwide": "$11,737"
+    "Total Spotify Streams Worldwide": "2395358",
+    "Estimated earnings worldwide": "11737"
   },
   "54":{
     "id": 55,
@@ -602,8 +602,8 @@
     "Genre": "Latin Pop",
     "Country": "El Salvador",
     "Continent":"South America" ,
-    "Total Spotify Streams Worldwide": "2,252,846",
-    "Estimated earnings worldwide": "$11,039"
+    "Total Spotify Streams Worldwide": "2252846",
+    "Estimated earnings worldwide": "11039"
   },
   "55":{
     "id": 56,
@@ -613,8 +613,8 @@
     "Genre": "Pop",
     "Country": "Cyprus",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "2,038,826",
-    "Estimated earnings worldwide": "$9,990"
+    "Total Spotify Streams Worldwide": "2038826",
+    "Estimated earnings worldwide": "9990"
   },
   "56":{
     "id": 57,
@@ -624,8 +624,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Latvia",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "1,874,775",
-    "Estimated earnings worldwide": "$9,186"
+    "Total Spotify Streams Worldwide": "1874775",
+    "Estimated earnings worldwide": "9186"
   },
   "57":{
     "id": 58,
@@ -635,8 +635,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Bulgaria",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "1,298,146",
-    "Estimated earnings worldwide": "$6,361"
+    "Total Spotify Streams Worldwide": "1298146",
+    "Estimated earnings worldwide": "6361"
   },
   "58":{
     "id": 59,
@@ -646,8 +646,8 @@
     "Genre": "Hip Hop/Rap",
     "Country": "Luxembourg",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "231,619",
-    "Estimated earnings worldwide": "$1,135"
+    "Total Spotify Streams Worldwide": "231619",
+    "Estimated earnings worldwide": "1135"
   },
   "59":{
     "id": 60,
@@ -657,8 +657,8 @@
     "Genre": "Pop",
     "Country": "Andorra",
     "Continent":"Europe" ,
-    "Total Spotify Streams Worldwide": "30,878",
-    "Estimated earnings worldwide": "$151"
+    "Total Spotify Streams Worldwide": "30878",
+    "Estimated earnings worldwide": "151"
   }
 },
 "numCanciones":60

@@ -99,7 +99,7 @@ public class Cancion {
 
 	@Override
 	public String toString() {
-		return tituloCancion + " - " + nombreArtista + ", " + nombrePais + ", " + continente + ", " + generoMusical
+		return tituloCancion + " - " + nombreArtista + ", " +generoArtista+ ", "+ nombrePais + ", " + continente + ", " + generoMusical
 				+ ", " + streams + ", " + ganancia;
 	}
 
