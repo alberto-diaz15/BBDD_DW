@@ -1,26 +1,36 @@
 package Dominio;
 
-public class Pais {
+public class Cancion {
 	private int id;
 	private String nombrePais;
 	private String tituloCancion;
 	private String nombreArtista;
+	private String generoArtista;
 	private String generoMusical;
 	private String continente;
 	private String streams;
 	private String ganancia;
-	
-	public Pais(int id, String nombrePais, String tituloCancion, String nombreArtista, String generoMusical,
-			String continente, String streams, String ganancia) {
+
+	public Cancion(int id, String nombrePais, String tituloCancion, String nombreArtista, String generoArtista,
+			String generoMusical, String continente, String streams, String ganancia) {
 		super();
 		this.id = id;
 		this.nombrePais = nombrePais;
 		this.tituloCancion = tituloCancion;
 		this.nombreArtista = nombreArtista;
+		this.generoArtista = generoArtista;
 		this.generoMusical = generoMusical;
 		this.continente = continente;
 		this.streams = streams;
 		this.ganancia = ganancia;
+	}
+
+	public String getGeneroArtista() {
+		return generoArtista;
+	}
+
+	public void setGeneroArtista(String generoArtista) {
+		this.generoArtista = generoArtista;
 	}
 
 	public int getId() {
@@ -92,5 +102,5 @@ public class Pais {
 		return tituloCancion + " - " + nombreArtista + ", " + nombrePais + ", " + continente + ", " + generoMusical
 				+ ", " + streams + ", " + ganancia;
 	}
-	
+
 }

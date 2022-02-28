@@ -7,21 +7,24 @@ import java.util.Scanner;
 
 public class Main {
 	static Scanner Teclado = new Scanner(System.in);
+
 	public static void main(String[] args) {
-		List<Pais> paises = GestorCanciones.leerPaises();
-		List<Pais> paisesAux = null;
+		List<Cancion> canciones = GestorCanciones.leerCanciones();
+		List<Cancion> cancionesAux = null;
 		boolean salir = false;
 		String continente = null;
 		String generoMusical = null;
 		while (!salir) {
-			System.out.println("\nSeleccione la opcion que desea:\n1.Mostrar todas las canciones\n2.Seleccionar por continentes\n3.Seleccionar por genero musical\n4.Salir");
+			System.out.println(
+					"\nSeleccione la opcion que desea:\n1.Mostrar todas las canciones\n2.Seleccionar por continentes\n3.Seleccionar por genero musical\n4.Salir");
 			int opcion = Teclado.nextInt();
 			switch (opcion) {
 			case 1:
-				paisesAux = paises;
+				cancionesAux = canciones;
 				break;
 			case 2:
-				System.out.println("\nSeleccione el continente por el que quiere filtrar las canciones:\n1.Europe\n2.North America\n3.Central America\n4.South America\n5.Africa\n6.Oceania\n7.Asia");
+				System.out.println(
+						"\nSeleccione el continente por el que quiere filtrar las canciones:\n1.Europe\n2.North America\n3.Central America\n4.South America\n5.Africa\n6.Oceania\n7.Asia");
 				opcion = Teclado.nextInt();
 				switch (opcion) {
 				case 1:
@@ -46,10 +49,11 @@ public class Main {
 					continente = "Asia";
 					break;
 				}
-				paisesAux = seleccionarPorContinente(continente, paises);
+				cancionesAux = seleccionarPorContinente(continente, canciones);
 				break;
 			case 3:
-				System.out.println("Seleccione el genero musical por el que quiere filtrar las canciones:\n1.Hip Hop/Rap\n2.Pop\n3.Electronic/Dance\n4.Reggaeton\n5.Latin Trap\n6.Latin Pop\n7.Rock");
+				System.out.println(
+						"Seleccione el genero musical por el que quiere filtrar las canciones:\n1.Hip Hop/Rap\n2.Pop\n3.Electronic/Dance\n4.Reggaeton\n5.Latin Trap\n6.Latin Pop\n7.Rock");
 				opcion = Teclado.nextInt();
 				switch (opcion) {
 				case 1:
@@ -74,15 +78,15 @@ public class Main {
 					generoMusical = "Rock";
 					break;
 				}
-				paisesAux = seleccionarPorGeneroMusical(generoMusical, paises);
+				cancionesAux = seleccionarPorGeneroMusical(generoMusical, canciones);
 				break;
 			case 4:
-				paisesAux.clear();
+				cancionesAux.clear();
 				System.out.println("Saliendo...");
 				salir = true;
 				break;
 			}
-			Iterator<Pais> iterador = paisesAux.iterator();
+			Iterator<Cancion> iterador = cancionesAux.iterator();
 			int i = 0;
 			while (iterador.hasNext()) {
 				i++;
@@ -90,26 +94,26 @@ public class Main {
 			}
 		}
 	}
-	
-	public static List<Pais> seleccionarPorContinente(String continente, List<Pais> paises) {
-		List<Pais> listaPaisesAux = new ArrayList<Pais>();
-		Iterator<Pais> iterador = paises.iterator();
+
+	public static List<Cancion> seleccionarPorContinente(String continente, List<Cancion> canciones) {
+		List<Cancion> listacancionesAux = new ArrayList<Cancion>();
+		Iterator<Cancion> iterador = canciones.iterator();
 		while (iterador.hasNext()) {
-			Pais paisAux = iterador.next();
-			if(paisAux.getContinente().equals(continente))
-				listaPaisesAux.add(paisAux);
+			Cancion cancionAux = iterador.next();
+			if (cancionAux.getContinente().equals(continente))
+				listacancionesAux.add(cancionAux);
 		}
-		return listaPaisesAux;
+		return listacancionesAux;
 	}
-	
-	public static List<Pais> seleccionarPorGeneroMusical(String generoMusical, List<Pais> paises) {
-		List<Pais> listaPaisesAux = new ArrayList<Pais>();
-		Iterator<Pais> iterador = paises.iterator();
+
+	public static List<Cancion> seleccionarPorGeneroMusical(String generoMusical, List<Cancion> canciones) {
+		List<Cancion> listacancionesAux = new ArrayList<Cancion>();
+		Iterator<Cancion> iterador = canciones.iterator();
 		while (iterador.hasNext()) {
-			Pais paisAux = iterador.next();
-			if(paisAux.getGeneroMusical().equals(generoMusical))
-				listaPaisesAux.add(paisAux);
+			Cancion cancionAux = iterador.next();
+			if (cancionAux.getGeneroMusical().equals(generoMusical))
+				listacancionesAux.add(cancionAux);
 		}
-		return listaPaisesAux;
+		return listacancionesAux;
 	}
 }
