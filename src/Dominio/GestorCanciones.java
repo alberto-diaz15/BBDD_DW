@@ -23,7 +23,7 @@ public class GestorCanciones {
 		} catch (JSONException e) {
 			System.out.println("\nERROR: El formato del archivo datos.json no es valido.");
 			return null;
-		}
+		} 
 		List<Cancion> canciones = new ArrayList<Cancion>();
 		for (int i = 0; i < obj.getInt("numCanciones"); i++) {
 			JSONObject pAux = obj.getJSONObject("canciones").getJSONObject(String.valueOf(i));

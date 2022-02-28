@@ -104,7 +104,7 @@ public class Main {
 				listacancionesAux.add(cancionAux);
 		}
 		return listacancionesAux;
-	}
+	} 
 
 	public static List<Cancion> seleccionarPorGeneroMusical(String generoMusical, List<Cancion> canciones) {
 		List<Cancion> listacancionesAux = new ArrayList<Cancion>();

@@ -3,7 +3,7 @@ package Dominio;
 public class Cancion {
 	private int id;
 	private String nombrePais;
-	private String tituloCancion;
+	private String tituloCancion; 
 	private String nombreArtista;
 	private String generoArtista;
 	private String generoMusical;
