@@ -1,0 +1,605 @@
+{
+"canciones":{
+  "0":{
+    "id": 1,
+    "Song": "Shape Of You",
+    "Artist": "Ed Sheeran",
+    "Genre": "Pop",
+    "Country": "United Kingdom",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "2,724,013,193",
+    "Estimated earnings worldwide": "$13,347,665"
+  },
+  "1":{
+    "id": 2,
+    "Song": "Rockstar",
+    "Artist": "Post Malone",
+    "Genre": "Hip Hop/Rap",
+    "Country": "United States of America",
+    "Continent":"North America" ,
+    "Total Spotify Streams Worldwide": "2,124,372,156",
+    "Estimated earnings worldwide": "$10,409,424"
+  },
+  "2":{
+    "id": 3,
+    "Song": "Dance Monkey",
+    "Artist": "Tones and I",
+    "Genre": "Pop",
+    "Country": "Australia",
+    "Continent":"Oceania" ,
+    "Total Spotify Streams Worldwide": "2,101,828,534",
+    "Estimated earnings worldwide": "$10,298,960"
+  },
+  "3":{
+    "id": 4,
+    "Song": "God's Plan",
+    "Artist": "Drake",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Canada",
+    "Continent":"North America" ,
+    "Total Spotify Streams Worldwide": "1,695,958,873",
+    "Estimated earnings worldwide": "$8,310,198"
+  },
+  "4":{
+    "id": 5,
+    "Song": "Faded",
+    "Artist": "Alan Walker",
+    "Genre": "Electronic/Dance",
+    "Country": "Norway",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "1,350,560,280",
+    "Estimated earnings worldwide": "$6,617,745"
+  },
+  "5":{
+    "id": 6,
+    "Song": "Wake Me Up",
+    "Artist": "Avicii",
+    "Genre": "Electronic/Dance",
+    "Country": "Sweden",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "1,227,990,897",
+    "Estimated earnings worldwide": "$6,017,155"
+  },
+  "6":{
+    "id": 7,
+    "Song": "7 Years",
+    "Artist": "Lukas Graham",
+    "Genre": "Pop",
+    "Country": "Denmark",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "1,201,787,625",
+    "Estimated earnings worldwide": "$5,888,759"
+  },
+  "7":{
+    "id": 8,
+    "Song": "In My Mind",
+    "Artist": "Dynoro",
+    "Genre": "Electronic/Dance",
+    "Country": "Lithuania",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "962,677,266",
+    "Estimated earnings worldwide": "$4,717,119"
+  },
+  "8":{
+    "id": 9,
+    "Song": "Criminal",
+    "Artist": "Natti Natasha",
+    "Genre": "Reggaeton",
+    "Country": "Dominican Republic",
+    "Continent":"Central America" ,
+    "Total Spotify Streams Worldwide": "652,964,683",
+    "Estimated earnings worldwide": "$3,199,527"
+  },
+  "9":{
+    "id": 10,
+    "Song": "Adan y Eva",
+    "Artist": "Paulo Londra",
+    "Genre": "Latin Trap",
+    "Country": "Argentina",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "627,517,660",
+    "Estimated earnings worldwide": "$3,074,837"
+  },
+  "10":{
+    "id": 11,
+    "Song": "Déjala Que Vuelva",
+    "Artist": "Piso 21",
+    "Genre": "Latin Pop",
+    "Country": "Colombia",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "544,780,626",
+    "Estimated earnings worldwide": "$2,669,425"
+  },
+  "11":{
+    "id": 12,
+    "Song": "Otro Trago",
+    "Artist": "Sech",
+    "Genre": "Reggaeton",
+    "Country": "Panama",
+    "Continent":"Central America" ,
+    "Total Spotify Streams Worldwide": "384,965,611",
+    "Estimated earnings worldwide": "$1,886,331"
+  },
+  "12":{
+    "id": 13,
+    "Song": "Ahora Te Puedes Marchar",
+    "Artist": "Luis Miguel",
+    "Genre": "Pop",
+    "Country": "Mexico",
+    "Continent":"North America" ,
+    "Total Spotify Streams Worldwide": "278,435,662",
+    "Estimated earnings worldwide": "$1,364,335"
+  },
+  "13":{
+    "id": 14,
+    "Song": "Roller",
+    "Artist": "Apache 207",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Germany",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "248,424,611",
+    "Estimated earnings worldwide": "$1,217,281"
+  },
+  "14":{
+    "id": 15,
+    "Song": "Lençol Dobrado",
+    "Artist": "João Gustavo e Murilo",
+    "Genre": "Pop",
+    "Country": "Brazil",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "212,062,341",
+    "Estimated earnings worldwide": "$1,039,105"
+  },
+  "15":{
+    "id": 16,
+    "Song": "Contando Lunares",
+    "Artist": "Don Patricio",
+    "Genre": "Latin Pop",
+    "Country": "Spain",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "210,530,663",
+    "Estimated earnings worldwide": "$1,031,600"
+  },
+  "16":{
+    "id": 17,
+    "Song": "Outnumbered",
+    "Artist": "Dermot Kennedy",
+    "Genre": "Pop",
+    "Country": "Ireland (Republic of)",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "206,380,929",
+    "Estimated earnings worldwide": "$1,011,267"
+  },
+  "17":{
+    "id": 18,
+    "Song": "Kathang Isip",
+    "Artist": "Ben&Ben",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Philippines",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "149,301,017",
+    "Estimated earnings worldwide": "$731,575"
+  },
+  "18":{
+    "id": 19,
+    "Song": "Il Cielo Nella Stanza",
+    "Artist": "Salmo",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Italy",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "117,878,562",
+    "Estimated earnings worldwide": "$577,605"
+  },
+  "19":{
+    "id": 20,
+    "Song": "Pretender",
+    "Artist": "Official Hige Dandism",
+    "Genre": "Pop",
+    "Country": "Japan",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "109,179,995",
+    "Estimated earnings worldwide": "$534,982"
+  },
+  "20":{
+    "id": 21,
+    "Song": "Balance Ton Quoi",
+    "Artist": "Angèle",
+    "Genre": "Pop",
+    "Country": "Belgium",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "104,874,800",
+    "Estimated earnings worldwide": "$513,887"
+  },
+  "21":{
+    "id": 22,
+    "Song": "La vie qu'on mène",
+    "Artist": "Ninho",
+    "Genre": "Hip Hop/Rap",
+    "Country": "France",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "104,483,752",
+    "Estimated earnings worldwide": "$511,970"
+  },
+  "22":{
+    "id": 23,
+    "Song": "Waktu Yang Salah",
+    "Artist": "Fiersa Besari",
+    "Genre": "Pop",
+    "Country": "Indonesia",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "99,401,958",
+    "Estimated earnings worldwide": "$487,070"
+  },
+  "23":{
+    "id": 24,
+    "Song": "Primo",
+    "Artist": "RAF Camora",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Austria",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "99,024,383",
+    "Estimated earnings worldwide": "$485,219"
+  },
+  "24":{
+    "id": 25,
+    "Song": "Duurt Te Lang",
+    "Artist": "Davina Michelle",
+    "Genre": "Pop",
+    "Country": "Netherlands",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "89,114,516",
+    "Estimated earnings worldwide": "$436,661"
+  },
+  "25":{
+    "id": 26,
+    "Song": "Not Steady",
+    "Artist": "Paloma Mami",
+    "Genre": "Latin Trap",
+    "Country": "Chile",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "88,652,557",
+    "Estimated earnings worldwide": "$434,398"
+  },
+  "26":{
+    "id": 27,
+    "Song": "AYA",
+    "Artist": "Murda",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Turkey",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "85,907,138",
+    "Estimated earnings worldwide": "$420,945"
+  },
+  "27":{
+    "id": 28,
+    "Song": "Me Voy",
+    "Artist": "Rombai",
+    "Genre": "Latin Pop",
+    "Country": "Uruguay",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "76,421,302",
+    "Estimated earnings worldwide": "$374,464"
+  },
+  "28":{
+    "id": 29,
+    "Song": "Tujhe Kitna Chahne Lage",
+    "Artist": "Arijit Singh",
+    "Genre": "Pop",
+    "Country": "India",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "74,996,934",
+    "Estimated earnings worldwide": "$367,485"
+  },
+  "29":{
+    "id": 30,
+    "Song": "Ella",
+    "Artist": "Ricardo Arjona",
+    "Genre": "Pop",
+    "Country": "Guatemala",
+    "Continent":"Central America" ,
+    "Total Spotify Streams Worldwide": "61,753,669",
+    "Estimated earnings worldwide": "$302,593"
+  },
+  "30":{
+    "id": 31,
+    "Song": "",
+    "Artist": "JJ Lin",
+    "Genre": "Pop",
+    "Country": "Singapore",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "53,618,700",
+    "Estimated earnings worldwide": "$262,732"
+  },
+  "31":{
+    "id": 32,
+    "Song": "Język Ciała",
+    "Artist": "Tymek",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Poland",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "40,351,154",
+    "Estimated earnings worldwide": "$197,721"
+  },
+  "32":{
+    "id": 33,
+    "Song": "Without You",
+    "Artist": "高爾宣OSN",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Taiwan",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "37,800,590",
+    "Estimated earnings worldwide": "$185,223"
+  },
+  "33":{
+    "id": 34,
+    "Song": "",
+    "Artist": "Three Man Down",
+    "Genre": "Pop",
+    "Country": "Thailand",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "25,947,283",
+    "Estimated earnings worldwide": "$127,142"
+  },
+  "34":{
+    "id": 35,
+    "Song": "Ikuinen Vappu",
+    "Artist": "JVG",
+    "Genre": "Hip Hip/Rap",
+    "Country": "Finland",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "24,152,127",
+    "Estimated earnings worldwide": "$118,345"
+  },
+  "35":{
+    "id": 36,
+    "Song": "079",
+    "Artist": "Lo & Leduc",
+    "Genre": "Hip Hip/Rap",
+    "Country": "Switzerland",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "22,887,239",
+    "Estimated earnings worldwide": "$112,147"
+  },
+  "36":{
+    "id": 37,
+    "Song": "Vibes",
+    "Artist": "SIN60",
+    "Genre": "Pop",
+    "Country": "New Zealand",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "21,899,381",
+    "Estimated earnings worldwide": "$107,307"
+  },
+  "37":{
+    "id": 38,
+    "Song": "En Peligro De Extinción",
+    "Artist": "Bembe Orquesta",
+    "Genre": "Latin Pop",
+    "Country": "Peru",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "21,872,556",
+    "Estimated earnings worldwide": "$107,176"
+  },
+  "38":{
+    "id": 39,
+    "Song": "Devia JR",
+    "Artist": "Wet Bed Gang",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Portugal",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "16,266,713",
+    "Estimated earnings worldwide": "$79,707"
+  },
+  "39":{
+    "id": 40,
+    "Song": "Mimpi",
+    "Artist": "K-Clique",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Malaysia",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "14,614,760",
+    "Estimated earnings worldwide": "$71,612"
+  },
+  "40":{
+    "id": 41,
+    "Song": "Por Última Vez",
+    "Artist": "Debi Nova",
+    "Genre": "Pop",
+    "Country": "Costa Rica",
+    "Continent":"Central America" ,
+    "Total Spotify Streams Worldwide": "14,232,275",
+    "Estimated earnings worldwide": "$69,738"
+  },
+  "41":{
+    "id": 42,
+    "Song": "Caliente",
+    "Artist": "Hawk",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Greece",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "14,002,386",
+    "Estimated earnings worldwide": "$68,612"
+  },
+  "42":{
+    "id": 43,
+    "Song": "Chameleon",
+    "Artist": "Michela",
+    "Genre": "Pop",
+    "Country": "Malta",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "12,335,264",
+    "Estimated earnings worldwide": "$60,443"
+  },
+  "43":{
+    "id": 44,
+    "Song": "Bài Này Chill Phết",
+    "Artist": "Đen",
+    "Genre": "Pop",
+    "Country": "Vietnam",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "10,633,278",
+    "Estimated earnings worldwide": "$52,103"
+  },
+  "44":{
+    "id": 45,
+    "Song": "מסע",
+    "Artist": "Eliad",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Israel",
+    "Continent":"Asia" ,
+    "Total Spotify Streams Worldwide": "8,308,173",
+    "Estimated earnings worldwide": "$40,710"
+  },
+  "45":{
+    "id": 46,
+    "Song": "Por Tu Culpa",
+    "Artist": "Tres Dedos",
+    "Genre": "Pop",
+    "Country": "Ecuador",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "7,875,930",
+    "Estimated earnings worldwide": "$38,592"
+  },
+  "46":{
+    "id": 47,
+    "Song": "Nem Tudja Senki",
+    "Artist": "Follow The Flow",
+    "Genre": "Pop",
+    "Country": "Hungary",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "7,197,499",
+    "Estimated earnings worldwide": "$35,268"
+  },
+  "47":{
+    "id": 48,
+    "Song": "Ahora Se",
+    "Artist": "Menor Menor",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Honduras",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "6,607,633",
+    "Estimated earnings worldwide": "$32,377"
+  },
+  "48":{
+    "id": 49,
+    "Song": "Viac",
+    "Artist": "Neries",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Slovakia",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "3,803,866",
+    "Estimated earnings worldwide": "$18,639"
+  },
+  "49":{
+    "id": 50,
+    "Song": "Amigos Con Derecho",
+    "Artist": "Japiuguar",
+    "Genre": "Latin Pop",
+    "Country": "Paraguay",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "3,505,938",
+    "Estimated earnings worldwide": "$17,179"
+  },
+  "50":{
+    "id": 51,
+    "Song": "Upp Til Hópa",
+    "Artist": "Herra Hnetusmjör",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Iceland",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "3,427,879",
+    "Estimated earnings worldwide": "$16,797"
+  },
+  "51":{
+    "id": 52,
+    "Song": "60 de zile",
+    "Artist": "Ian",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Romania",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "3,308,897",
+    "Estimated earnings worldwide": "$16,214"
+  },
+  "52":{
+    "id": 53,
+    "Song": "Aluspükse",
+    "Artist": "5MIINUST",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Estonia",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "2,413,561",
+    "Estimated earnings worldwide": "$11,826"
+  },
+  "53":{
+    "id": 54,
+    "Song": "Muchachita",
+    "Artist": "Bonny Lovy",
+    "Genre": "Reggaeton",
+    "Country": "Bolivia",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "2,395,358",
+    "Estimated earnings worldwide": "$11,737"
+  },
+  "54":{
+    "id": 55,
+    "Song": "Enfermera",
+    "Artist": "Los Hermanos Flores",
+    "Genre": "Latin Pop",
+    "Country": "El Salvador",
+    "Continent":"South America" ,
+    "Total Spotify Streams Worldwide": "2,252,846",
+    "Estimated earnings worldwide": "$11,039"
+  },
+  "55":{
+    "id": 56,
+    "Song": "Horevo",
+    "Artist": "Michalis Hatzigiannis",
+    "Genre": "Pop",
+    "Country": "Cyprus",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "2,038,826",
+    "Estimated earnings worldwide": "$9,990"
+  },
+  "56":{
+    "id": 57,
+    "Song": "Zemes Stunda",
+    "Artist": "Ansis",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Latvia",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "1,874,775",
+    "Estimated earnings worldwide": "$9,186"
+  },
+  "57":{
+    "id": 58,
+    "Song": "Piyan",
+    "Artist": "Preslava",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Bulgaria",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "1,298,146",
+    "Estimated earnings worldwide": "$6,361"
+  },
+  "58":{
+    "id": 59,
+    "Song": "Chu An Da Hood",
+    "Artist": "Brooze",
+    "Genre": "Hip Hop/Rap",
+    "Country": "Luxembourg",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "231,619",
+    "Estimated earnings worldwide": "$1,135"
+  },
+  "59":{
+    "id": 60,
+    "Song": "Nicki Minaj",
+    "Artist": "Diktion",
+    "Genre": "Pop",
+    "Country": "Andorra",
+    "Continent":"Europe" ,
+    "Total Spotify Streams Worldwide": "30,878",
+    "Estimated earnings worldwide": "$151"
+  }
+},
+"numCanciones":60
+}
