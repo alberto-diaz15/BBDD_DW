@@ -39,7 +39,7 @@ import java.util.Iterator;
  * @author JSON.org
  * @version 2016-08-10
  */
-@SuppressWarnings({ "boxing", "unused" })
+@SuppressWarnings("boxing")
 public class XML {
 
     /** The Character '&amp;'. */
